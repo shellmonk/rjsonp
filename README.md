@@ -1,4 +1,4 @@
-# MCCWC - Monk Coding Challenge 2: JSON parser in Raku
+# RJSONP - Monk Coding Challenge 2: JSON parser in Raku
 
 
 JSON parser written in Raku. Done as part of [Monk Coding Challenge](https://shellmonk.io/posts/monk-coding-challenge-0-prelude/) for [CodingChallenges.FYI](https://codingchallenges.fyi).
