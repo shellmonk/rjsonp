@@ -7,9 +7,9 @@ Parent repo: [monk-coding-challenges](https://github.com/shellmonk/monk-coding-c
 
 Challenge specification: [Write Your Own JSON Parser](https://codingchallenges.fyi/challenges/challenge-json-parser)
 
-## Blog Post (WIP)
+## Blog Post
 
-[Monk Coding Challenge 1: JSON parser in Raku](https://tbd/)
+[Monk Coding Challenge 2: JSON parser in Raku](https://shellmonk.io/posts/monk-coding-challenge-2-json-parser-in-raku/)
 
 
 ## Prerequisites
